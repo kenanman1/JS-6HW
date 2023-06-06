@@ -1,0 +1,34 @@
+main {
+  display: flex;
+  flex-direction: row;
+  margin: 100px;
+  height: 200px;
+  width: 600px;
+  background-color: antiquewhite;
+}
+
+#main-div {
+  border-radius: 10px;
+  border-style: solid;
+  width: 400px;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.inner-div {
+  background-color: gray;
+  height: 120px;
+  margin: 10px;
+  width: 100px;
+  border-radius: 50px;
+}
+
+button {
+  height: 150px;
+  margin: 25px;
+  width: 100px;
+  border-radius: 10px;
+  border-style: solid;
+  font-size: larger;
+}
